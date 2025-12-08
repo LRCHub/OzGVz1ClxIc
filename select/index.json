@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Snow halation",
+  "base_artist": "μ's",
+  "createdAt": "2025-12-08T17:00:20.985105Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Snow Halation",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/01_Snow_Halation_μ's.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Snow halation (Explicit)",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/02_Snow_halation_(Explicit)_μ's.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Snow halation (KOTORI Mix)",
+      "artist": "南ことり(CV.内田彩)",
+      "has_synced": false,
+      "path": "select/03_Snow_halation_(KOTORI_Mix)_南ことり(CV.内田彩).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Snow halation (KOTORI Mix)",
+      "artist": "内田彩",
+      "has_synced": false,
+      "path": "select/04_Snow_halation_(KOTORI_Mix)_内田彩.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Snow halation",
+      "artist": "Masaaki Endoh",
+      "has_synced": false,
+      "path": "select/05_Snow_halation_Masaaki_Endoh.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Snow halation (HONOKA Mix)",
+      "artist": "高坂穂乃果(CV.新田恵海)",
+      "has_synced": false,
+      "path": "select/06_Snow_halation_(HONOKA_Mix)_高坂穂乃果(CV.新田恵海).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Snow halation (HONOKA Mix)",
+      "artist": "高坂穂乃果(CV. 新田恵海)",
+      "has_synced": false,
+      "path": "select/07_Snow_halation_(HONOKA_Mix)_高坂穂乃果(CV._新田恵海).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Snow halation (NOZOMI Mix)",
+      "artist": "東條 希(CV.楠田亜衣奈)",
+      "has_synced": true,
+      "path": "select/08_Snow_halation_(NOZOMI_Mix)_東條_希(CV.楠田亜衣奈).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Snow halation (NOZOMI Mix)",
+      "artist": "東條希(CV. 楠田亜衣奈)",
+      "has_synced": true,
+      "path": "select/09_Snow_halation_(NOZOMI_Mix)_東條希(CV._楠田亜衣奈).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Snow Halation (Feat. Soleil) [dj-Jo Remix]",
+      "artist": "Dj-Jo",
+      "has_synced": true,
+      "path": "select/10_Snow_Halation_(Feat._Soleil)_[dj-Jo_Remix]_Dj-Jo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Snow Halation (dj-Jo Remix) [Instrumental]",
+      "artist": "Dj-Jo",
+      "has_synced": true,
+      "path": "select/11_Snow_Halation_(dj-Jo_Remix)_[Instrumental]_Dj-Jo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Snow halation(UMI Mix)",
+      "artist": "園田海未(CV.三森すずこ)",
+      "has_synced": true,
+      "path": "select/12_Snow_halation(UMI_Mix)_園田海未(CV.三森すずこ).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Snow halation (UMI Mix)",
+      "artist": "園田海未(CV.三森すずこ)",
+      "has_synced": true,
+      "path": "select/13_Snow_halation_(UMI_Mix)_園田海未(CV.三森すずこ).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Snow Halation (Kotori Mix)",
+      "artist": "南ことり(CV.内田彩) from μ’s",
+      "has_synced": false,
+      "path": "select/14_Snow_Halation_(Kotori_Mix)_南ことり(CV.内田彩)_from_μ’s.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Snow halation (NOZOMI Mix)",
+      "artist": "東條希(CV:楠田亜衣奈)",
+      "has_synced": true,
+      "path": "select/15_Snow_halation_(NOZOMI_Mix)_東條希(CV_楠田亜衣奈).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Snow halation (ELI Mix)",
+      "artist": "絢瀬絵里(CV.南條愛乃)",
+      "has_synced": true,
+      "path": "select/16_Snow_halation_(ELI_Mix)_絢瀬絵里(CV.南條愛乃).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Snow halation（ELI Mix）",
+      "artist": "絢瀬絵里(CV.南條愛乃)",
+      "has_synced": true,
+      "path": "select/17_Snow_halation(ELI_Mix)_絢瀬絵里(CV.南條愛乃).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Snow halation",
+      "artist": "μ's",
+      "has_synced": false,
+      "path": "select/pl_01_Snow_halation_μ's.txt"
+    }
+  ]
+}
